@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EduMantri - Intelligent Tutoring System
 
 An AI-powered educational platform that leverages multi-agent systems and Retrieval Augmented Generation (RAG) to provide personalized learning experiences. EduMantri helps students understand concepts, solve problems, and generate study materials through specialized AI agents.
@@ -408,3 +409,6 @@ For questions or support, please open an issue in the repository or contact the 
 
 **Last Updated**: May 2026
 **Version**: 1.0.0
+=======
+
+>>>>>>> 11eb355f34f71f1682665c878fa6828ac13d7af6
